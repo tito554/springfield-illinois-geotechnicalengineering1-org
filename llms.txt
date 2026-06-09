@@ -1,0 +1,41 @@
+# Geotechnicalengineering1 — Springfield Illinois
+
+> Geotechnical engineering services in Springfield Illinois, United States.
+
+## Services
+- [Anchors](https://springfield-illinois.geotechnicalengineering1.org/anchors/)
+- [Cbr Road](https://springfield-illinois.geotechnicalengineering1.org/cbr-road/)
+- [Deep Excavations](https://springfield-illinois.geotechnicalengineering1.org/deep-excavations/)
+- [Excavations](https://springfield-illinois.geotechnicalengineering1.org/excavations/)
+- [Flexible Pavement](https://springfield-illinois.geotechnicalengineering1.org/flexible-pavement/)
+- [Footings](https://springfield-illinois.geotechnicalengineering1.org/footings/)
+- [Foundations](https://springfield-illinois.geotechnicalengineering1.org/foundations/)
+- [Geophysics](https://springfield-illinois.geotechnicalengineering1.org/geophysics/)
+- [Grain Size](https://springfield-illinois.geotechnicalengineering1.org/grain-size/)
+- [Ground Improvement](https://springfield-illinois.geotechnicalengineering1.org/ground-improvement/)
+- [Investigation](https://springfield-illinois.geotechnicalengineering1.org/investigation/)
+- [Lab In Situ](https://springfield-illinois.geotechnicalengineering1.org/lab-in-situ/)
+- [Laboratory](https://springfield-illinois.geotechnicalengineering1.org/laboratory/)
+- [Masw](https://springfield-illinois.geotechnicalengineering1.org/masw/)
+- [Mat Foundations](https://springfield-illinois.geotechnicalengineering1.org/mat-foundations/)
+- [Resistivity](https://springfield-illinois.geotechnicalengineering1.org/resistivity/)
+- [Rigid Pavement](https://springfield-illinois.geotechnicalengineering1.org/rigid-pavement/)
+- [Road Geotechnics](https://springfield-illinois.geotechnicalengineering1.org/road-geotechnics/)
+- [Sand Cone Density](https://springfield-illinois.geotechnicalengineering1.org/sand-cone-density/)
+- [Seismic](https://springfield-illinois.geotechnicalengineering1.org/seismic/)
+- [Seismic Microzonation](https://springfield-illinois.geotechnicalengineering1.org/seismic-microzonation/)
+- [Seismic Refraction](https://springfield-illinois.geotechnicalengineering1.org/seismic-refraction/)
+- [Slope Stability](https://springfield-illinois.geotechnicalengineering1.org/slope-stability/)
+- [Slopes](https://springfield-illinois.geotechnicalengineering1.org/slopes/)
+- [Spt Drilling](https://springfield-illinois.geotechnicalengineering1.org/spt-drilling/)
+- [Stone Columns](https://springfield-illinois.geotechnicalengineering1.org/stone-columns/)
+- [Test Pits](https://springfield-illinois.geotechnicalengineering1.org/test-pits/)
+- [Triaxial](https://springfield-illinois.geotechnicalengineering1.org/triaxial/)
+- [Vibrocompaction](https://springfield-illinois.geotechnicalengineering1.org/vibrocompaction/)
+
+## Contact
+- Website: https://springfield-illinois.geotechnicalengineering1.org/
+
+## About
+This site provides geotechnical engineering services in Springfield Illinois, United States.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
